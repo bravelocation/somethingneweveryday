@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<title>{{ page.title }}</title>
+{% include externals.html %}
+<meta property="og:title" content="{{ page.title }}"/>
+</head>
+<body>
+{% include navbar.html %}
+<div class="container"> <!-- Main container -->
+
+<!-- blog header -->
+<div class="hero-unit">
+    <h1>Something New Every Day</h1>
+    <p>A record of doing a new thing every day in 2011</p>
+</div>
+<!-- end blog header -->
+
+<!-- Begin Body Columns -->
+<div class="row">
+    <div class="span12"> <!-- Main content column -->
+            {{ content }}
+    </div> <!-- End main content -->
+</div> <!-- End main container -->
+
+</body>
+</html>
+​

@@ -1,0 +1,36 @@
+safe:     true
+port:     4000
+url:      http://localhost:4000
+paginate: 5
+root_uri: http://somethingnew365.com
+
+source:      .
+destination: ./_site
+
+future:      true
+lsi:         false
+highlighter: pygments
+safe:        true
+markdown:    kramdown
+permalink:   /:title
+
+rdiscount:
+  extensions: []
+
+redcarpet:
+  extensions: []
+
+kramdown:
+  auto_ids: true,
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_wrap: div
+    coderay_line_numbers: inline
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: style

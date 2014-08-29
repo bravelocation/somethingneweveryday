@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<title>{{ page.title }} - BraveLocation Blog</title>
+{% include externals.html %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:url" content="{{ site.root_uri }}{{ page.url }}/" />
+</head>
+<body>
+{% include navbar.html %}
+
+<div class="container"> <!-- Main container -->
+
+<!-- blog header -->
+<div class="hero-unit">
+    <h1>Brave Location</h1>
+    <p>Web, Mobile and Big Data</p>
+</div>
+<!-- end blog header -->
+
+<!-- Begin Body Columns -->
+<div class="row">
+    <div class="span12"> <!-- Main content column -->
+        <h2 class="blogPostHeader"><a href="{{ page.url }}" title="Permalink" class="headingHighlight">{{ page.title }}</a> <span class="muted">{{ page.date | date: "%B %e, %Y" }}</span></h2>
+        {{ content }}
+		<div class="withinpostdivider">&nbsp;</div>
+	</div>
+</div>
+
+<footer>
+<div class="row">
+	<div class="span3"><a href="/">&laquo; Back to Blog Home</a></div>
+
+	<!-- FB Like button -->
+	<div class="span3">
+	<div class="fb-like" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" href="{{ site.root_uri }}{{ page.url }}/"></div>
+	</div>
+	<!-- End FB Like button -->
+
+	<!-- Twitter button -->
+	<div class="span3">
+	<a href="https://twitter.com/share" class="twitter-share-button" data-via="bravelocation">Tweet</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</div>
+    <!-- End Twitter button -->
+
+	<!-- Google +1 button  -->
+	<div class="span3">
+		<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="150"></div>
+	</div>
+	<!-- End Google +1 button -->
+
+</div> <!-- End row -->
+</footer>
+
+
+<!-- Facebook initialisation -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=125302614190821";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- End Facebook initialisation -->
+
+<!--  Google+ initialisation -->
+<script type="text/javascript">
+  window.___gcfg = {lang: 'en-GB'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!-- End Google+ initialisation -->
+
+</body>
+</html>
+​

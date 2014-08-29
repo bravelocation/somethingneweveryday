@@ -1,0 +1,52 @@
+p, div, span, li {
+font-family: "Open Sans",Verdana,sans-serif;
+font-size: 18px;
+line-height: 1.5em;
+}
+
+.blogAboutPost { 
+	font-style:italic; 
+	font-size: small;
+}
+
+.blogHeader {
+        background: url('http://www.bravelocation.com/images/background.jpg') left top no-repeat;
+		padding:20px;
+		margin-bottom:30px;
+		background-color:#fff;
+		color: #fff;
+}
+
+.blogHeader h1 {
+	margin-bottom:0;
+	font-size:50px;
+	line-height:1;
+	letter-spacing:-1px;
+	color: #fff;
+}
+
+.blogHeader p {
+	font-size:18px;
+	font-weight:200;
+	line-height:27px;
+	color: #fff;
+}
+
+h3.sidebarHeader {
+	padding: 20px 0px 0px 0px;
+}
+
+div.postdivider {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+div.withinpostdivider {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.fb-comments, .fb-comments  * {width: 100% !important;}
+
+
+
