@@ -6,7 +6,7 @@ title: Something New Every Day
 {% for post in paginator.posts %}
 	<article class="post">
 		<header>
-			<h2 class="blogPostHeader"><a href="{{ post.url }}">{{ post.title }}</a> <span class="muted">{{ post.date | date: "%B %e, %Y" }}</span></h2>
+			<h2 class="blogPostHeader"><a href="{{ post.url }}">{{ post.title }}</a> <span class="muted">{{ post.date | date: "%A %B %e, %Y" }}</span></h2>
 		</header>
       	{{ post.content }}
 	</article>
