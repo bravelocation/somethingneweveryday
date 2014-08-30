@@ -3,7 +3,6 @@ layout: post
 title: Burger at The Breakfast Club (253/365)
 date: '2011-09-10T20:52:00+01:00'
 categories:
-- JustMigrate
 - eating
 - london
 tumblr_url: http://www.somethingnew365.com/post/43804519064/burger-at-the-breakfast-club-253365-15858

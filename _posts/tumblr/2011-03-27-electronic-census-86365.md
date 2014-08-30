@@ -3,7 +3,6 @@ layout: post
 title: Electronic Census (86/365)
 date: '2011-03-27T13:00:00+01:00'
 categories:
-- JustMigrate
 - computing
 tumblr_url: http://www.somethingnew365.com/post/44289153885/electronic-census-86365
 ---

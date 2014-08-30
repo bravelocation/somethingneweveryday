@@ -3,7 +3,6 @@ layout: post
 title: Traipsing around Stockholm (199/365)
 date: '2011-07-18T08:40:00+01:00'
 categories:
-- JustMigrate
 - sweden
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44061600761/traipsing-around-stockholm-199365

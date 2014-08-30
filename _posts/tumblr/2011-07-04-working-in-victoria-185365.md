@@ -12,5 +12,6 @@ The office itself is actually much better, but the location clearly isn’t anyw
 
 For the blog I get some easy new things this week, but on the downside it’s going to much harder to get new (and interesting!) lunches. Ho hum.
 
+<iframe scrolling="no" class="google-map" src="http://www.google.com/maps?ie=UTF8&amp;ll=51.496498,-0.141994&amp;spn=0,0.013175&amp;t=h&amp;layer=c&amp;cbll=51.496498,-0.141994&amp;panoid=6s8FDyZ22Ix03cT4dYuPNg&amp;cbp=12,45.42,,0,-4.14&amp;output=svembed" frameborder="0"></iframe>
 
-[View Larger Map](
+[View Larger Map](http://www.google.com/maps?ie=UTF8&amp;ll=51.496498,-0.141994&amp;spn=0,0.013175&amp;t=h&amp;layer=c&amp;cbll=51.496498,-0.141994&amp;panoid=6s8FDyZ22Ix03cT4dYuPNg&amp;cbp=12,45.42,,0,-4.14&amp;source=embed)
