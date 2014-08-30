@@ -7,7 +7,7 @@ h1,
 h2 {
   padding: 10px 0px 10px 0px;
   font-family: "Open Sans Condensed", Verdana, sans-serif;
-  color: #d60000;
+  color: #d20022;
 }
 h3,
 h4 {
@@ -22,9 +22,10 @@ li {
   font-family: "Open Sans", Verdana, sans-serif;
   font-size: 16px;
   line-height: 1.5em;
+  color: #000000;
 }
 a {
-  color: #d60000;
+  color: #d20022;
 }
 a:hover,
 a:focus {
@@ -32,44 +33,36 @@ a:focus {
 }
 /* Headings */
 #bannerHeader {
-  background-color: #d60000;
+  background-color: #ffffff;
   height: 2px;
   width: 100%;
 }
-.brandBrave {
-  font-family: "Open Sans Condensed", Verdana, sans-serif;
-  color: #d60000;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: inherit;
-}
-.brandLocation {
-  font-family: "Open Sans Condensed", Verdana, sans-serif;
-  font-weight: normal;
-  font-size: 20px;
-  line-height: inherit;
-}
+
 h1.pageHeading {
-  color: #d60000;
+  color: #d20022;
 }
 h2.homepageSubtitle,
 h2.blogPostHeader,
 h2.subheading {
-  color: #d60000;
+  color: #d20022;
   line-height: 1.2em;
   padding-top: 20px;
   padding-bottom: 0px;
   font-size: 28px;
 }
 .headingHighlight {
-  color: #d60000;
+  color: #d20022;
   padding-bottom: 0px;
 }
 .hero-unit {
-  background: url('http://www.bravelocation.com/images/background.jpg') left top no-repeat;
+  background: url('/images/background.png') left top no-repeat;
   text-align: right;
   color: #fff;
 }
+.hero-unit p {
+  color: #fff;
+}
+
 /* Contact List */
 ul.contactButtonList {
   list-style-type: none;
@@ -93,15 +86,8 @@ ul.contactButtonList {
 }
 
 
-
-p, div, span, li {
-font-family: "Open Sans",Verdana,sans-serif;
-font-size: 18px;
-line-height: 1.5em;
-}
-
-.blogAboutPost { 
-	font-style:italic; 
+.blogAboutPost {
+	font-style:italic;
 	font-size: small;
 }
 
@@ -146,5 +132,55 @@ div.withinpostdivider {
 
 .google-map {width: 600px; height: 600px;}
 
+/* Navigation customisation */
 
+.navbar-inner {
+  background-image: none;
+  background: none !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
 
+.navbar .nav > li > a {
+  color: #d20022;
+}
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+  color: #d20022;
+}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  color: #d20022;
+}
+
+.navbar .brand {
+  color: #d20022;
+}
+
+.navbar a, .navbar a:hover {
+    color: #d20022;
+}
+
+.navbar .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+    color: #d20022;
+    background-color:transparent;
+}
+
+.navbar .nav > li > a:hover, .mainnav > li.dropdown.open  {
+  background-image: none;
+  background-color: transparent;
+}
+
+.navbar .dropdown-menu > li > a:hover, .navbar .dropdown-menu > li > a:focus {
+  background-color: white;
+  background-image: none;
+  filter: none;
+}
+
+.navbar .dropdown-menu > li > a:hover {
+  background-color: #d20022;
+  background-image: none;
+}
