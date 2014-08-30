@@ -3,7 +3,7 @@ layout: post
 title: My First Bing Garden Party (237/365)
 date: '2011-08-25T08:02:00+01:00'
 categories:
-- Bng
+- Bing
 - london
 tumblr_url: http://www.somethingnew365.com/post/43804548277/my-first-bing-garden-party-237365
 ---
