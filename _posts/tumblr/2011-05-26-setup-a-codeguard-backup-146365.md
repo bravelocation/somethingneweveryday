@@ -6,5 +6,8 @@ categories:
 - coding
 tumblr_url: http://www.somethingnew365.com/post/44286016266/setup-a-codeguard-backup-146365
 ---
-I read a few days ago about a simple but really useful service called CodeGuard, which basically logs into your website via FTP and copies it to a safe server. This is really useful, as well as providing early detection for any corruption or viruses.
-I set it up for the previously unreliable Yeltz Forum I help maintain, and it worked straightaway without a hitch. You get 1 free site which is fine for me. Definitely recommended.
+I read a few days ago about a simple but really useful service called [CodeGuard](https://www.codeguard.com/), which basically logs into your website via FTP and copies it to a safe server. This is really useful, as well as providing early detection for any corruption or viruses.
+
+I set it up for the previously unreliable Yeltz Forum I help maintain, and it worked straight away without a hitch. You get 1 free site which is fine for me. 
+
+Definitely recommended.
