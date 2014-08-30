@@ -8,6 +8,8 @@ categories:
 tumblr_url: http://www.somethingnew365.com/post/44289265631/wrote-a-book-review-on-amazon-5365
 ---
 I recently bought a Kindle - which is completely brilliant - and already have found that the convenience of always having a few books available means I’m definitely reading a lot more.
+
 I’ve just finished “ReWork" by Jason Fried and David Heinemeier Hansson - two of the founders of http://37signals.com/. I quite enjoyed the book, so I thought I’d do something new and write a review of it on Amazon.
+
 I don’t think my review was particularly good, insightful or useful but I enjoyed writing it and definitely something I’ll try to get into the habit of doing.
-You can see my initial attempt at being a critic on my page on the Amazon UK website
+You can see my initial attempt at being a critic on [my page on the Amazon UK website](http://www.amazon.co.uk/gp/cdp/member-reviews/A4NGHRVN26R2K/ref=cm_cr_pr_auth_rev?ie=UTF8&sort_by=MostRecentReview).
