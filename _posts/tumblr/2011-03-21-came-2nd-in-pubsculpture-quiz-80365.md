@@ -2,7 +2,7 @@
 layout: post
 title: came 2nd in pubsculpture quiz 80365
 date: '2011-03-21T12:00:00+00:00'
-tags:
+categories:
 - london
 tumblr_url: http://www.somethingnew365.com/post/44289160131/came-2nd-in-pubsculpture-quiz-80365
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Brave Location now has a Facebook page (51/365)
 date: '2011-02-20T12:00:00+00:00'
-tags:
+categories:
 - coding
 - facebook
 tumblr_url: http://www.somethingnew365.com/post/44289181655/brave-location-now-has-a-facebook-page-51365

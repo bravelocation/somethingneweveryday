@@ -2,7 +2,7 @@
 layout: post
 title: Registered as an app developer on Windows Phone 7 Marketplace (11/365)
 date: '2011-01-11T21:12:00+00:00'
-tags:
+categories:
 - computing
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44289260480/registered-as-an-app-developer-on-windows-pho

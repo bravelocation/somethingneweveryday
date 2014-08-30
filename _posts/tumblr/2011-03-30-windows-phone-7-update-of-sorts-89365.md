@@ -2,7 +2,7 @@
 layout: post
 title: Windows Phone 7 update of sorts (89/365)
 date: '2011-03-30T12:00:00+01:00'
-tags:
+categories:
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44289148438/windows-phone-7-update-of-sorts-89365
 ---

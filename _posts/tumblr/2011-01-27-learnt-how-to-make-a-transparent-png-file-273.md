@@ -2,7 +2,7 @@
 layout: post
 title: Learnt how to make a transparent PNG file (27/365)
 date: '2011-01-27T12:00:00+00:00'
-tags:
+categories:
 - coding
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44289248298/learnt-how-to-make-a-transparent-png-file-273

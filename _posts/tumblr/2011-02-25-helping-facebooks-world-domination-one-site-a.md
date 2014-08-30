@@ -2,7 +2,7 @@
 layout: post
 title: Helping Facebook's world domination one site at a time (56/365)
 date: '2011-02-25T12:00:00+00:00'
-tags:
+categories:
 - coding
 - facebook
 tumblr_url: http://www.somethingnew365.com/post/44289180228/helping-facebooks-world-domination-one-site-a

@@ -2,7 +2,7 @@
 layout: post
 title: Fixed bug using App Hub stack traces (221/365)
 date: '2011-08-09T20:14:00+01:00'
-tags:
+categories:
 - coding
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44061575973/fixed-bug-using-app-hub-stack-traces-221365

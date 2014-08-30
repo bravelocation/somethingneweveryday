@@ -2,7 +2,7 @@
 layout: post
 title: Bought an urban dressing gown (81/365)
 date: '2011-03-22T12:00:00+00:00'
-tags:
+categories:
 - london
 - shopping
 tumblr_url: http://www.somethingnew365.com/post/44289155487/bought-an-urban-dressing-gown-81365

@@ -2,7 +2,7 @@
 layout: post
 title: Uploaded Mango App to Marketplace (235/365)
 date: '2011-08-23T06:16:00+01:00'
-tags:
+categories:
 - coding
 - phone
 tumblr_url: http://www.somethingnew365.com/post/43804549514/uploaded-mango-app-to-marketplace-235365

@@ -2,7 +2,7 @@
 layout: post
 title: unbelievable 363 downloads of phone app in fi
 date: '2011-02-18T12:00:00+00:00'
-tags:
+categories:
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44289183367/unbelievable-363-downloads-of-phone-app-in-fi
 ---

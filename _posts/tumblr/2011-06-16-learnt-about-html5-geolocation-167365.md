@@ -2,7 +2,7 @@
 layout: post
 title: Learnt about HTML5 Geolocation (167/365)
 date: '2011-06-16T14:50:00+01:00'
-tags:
+categories:
 - coding
 tumblr_url: http://www.somethingnew365.com/post/44061631603/learnt-about-html5-geolocation-167365
 ---

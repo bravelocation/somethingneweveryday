@@ -2,7 +2,7 @@
 layout: post
 title: Flew to Seattle via Paris with Air France (190/365)
 date: '2011-07-09T12:56:00+01:00'
-tags:
+categories:
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44061606340/flew-to-seattle-via-paris-with-air-france-190
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Completed my Olympic tickets application (93/365)
 date: '2011-04-03T12:00:00+01:00'
-tags:
+categories:
 - london
 - olympics
 tumblr_url: http://www.somethingnew365.com/post/44289147222/completed-my-olympic-tickets-application-9336

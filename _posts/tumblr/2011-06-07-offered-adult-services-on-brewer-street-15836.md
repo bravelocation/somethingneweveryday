@@ -2,7 +2,7 @@
 layout: post
 title: Offered Adult Services on Brewer Street (158/365)
 date: '2011-06-07T17:38:00+01:00'
-tags:
+categories:
 - interesting
 - london
 tumblr_url: http://www.somethingnew365.com/post/44286007055/offered-adult-services-on-brewer-street-15836

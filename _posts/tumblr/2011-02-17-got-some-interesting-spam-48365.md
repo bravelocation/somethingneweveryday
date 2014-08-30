@@ -2,7 +2,7 @@
 layout: post
 title: got some interesting spam 48365
 date: '2011-02-17T12:00:00+00:00'
-tags:
+categories:
 - interesting
 tumblr_url: http://www.somethingnew365.com/post/44289184714/got-some-interesting-spam-48365
 ---

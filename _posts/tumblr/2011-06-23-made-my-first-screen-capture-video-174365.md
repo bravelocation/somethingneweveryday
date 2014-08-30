@@ -2,7 +2,7 @@
 layout: post
 title: Made my first screen capture video (174/365)
 date: '2011-06-23T07:21:00+01:00'
-tags:
+categories:
 - computing
 tumblr_url: http://www.somethingnew365.com/post/44061629006/made-my-first-screen-capture-video-174365
 ---

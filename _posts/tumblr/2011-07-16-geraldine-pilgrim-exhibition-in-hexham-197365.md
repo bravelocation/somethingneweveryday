@@ -2,7 +2,7 @@
 layout: post
 title: Geraldine Pilgrim exhibition in Hexham (197/365)
 date: '2011-07-16T20:23:00+01:00'
-tags:
+categories:
 - art
 - hexham
 tumblr_url: http://www.somethingnew365.com/post/44061601612/geraldine-pilgrim-exhibition-in-hexham-197365

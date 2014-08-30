@@ -2,7 +2,7 @@
 layout: post
 title: Badly named Nectar Ale (208/365)
 date: '2011-07-27T08:17:00+01:00'
-tags:
+categories:
 - beer
 - Edinburgh
 tumblr_url: http://www.somethingnew365.com/post/44061583472/badly-named-nectar-ale-208365

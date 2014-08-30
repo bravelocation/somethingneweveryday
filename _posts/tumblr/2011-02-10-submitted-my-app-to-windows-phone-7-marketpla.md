@@ -2,7 +2,7 @@
 layout: post
 title: Submitted my app to Windows Phone 7 Marketplace (41/365)
 date: '2011-02-10T22:06:00+00:00'
-tags:
+categories:
 - computing
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44289239872/submitted-my-app-to-windows-phone-7-marketpla

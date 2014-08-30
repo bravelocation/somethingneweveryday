@@ -2,7 +2,7 @@
 layout: post
 title: Fat Loss Spreadsheet (225/365)
 date: '2011-08-13T20:08:00+01:00'
-tags:
+categories:
 - diet
 tumblr_url: http://www.somethingnew365.com/post/44061574551/fat-loss-spreadsheet-225365
 ---

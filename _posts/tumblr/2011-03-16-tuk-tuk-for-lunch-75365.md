@@ -2,7 +2,7 @@
 layout: post
 title: Tuk Tuk for lunch (75/365)
 date: '2011-03-16T12:00:00+00:00'
-tags:
+categories:
 - eating
 tumblr_url: http://www.somethingnew365.com/post/44289165798/tuk-tuk-for-lunch-75365
 ---

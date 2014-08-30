@@ -2,7 +2,7 @@
 layout: post
 title: Chilli sandwiches (156/365)
 date: '2011-06-05T06:06:00+01:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44286007557/chilli-sandwiches-156365
 ---

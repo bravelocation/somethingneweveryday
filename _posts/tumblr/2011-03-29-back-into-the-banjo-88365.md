@@ -2,7 +2,7 @@
 layout: post
 title: Back into the Banjo (88/365)
 date: '2011-03-29T12:00:00+01:00'
-tags:
+categories:
 - books
 - music
 tumblr_url: http://www.somethingnew365.com/post/44289148740/back-into-the-banjo-88365

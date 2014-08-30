@@ -2,7 +2,7 @@
 layout: post
 title: Spotted a colleague in a Windows Phone ad (25/365)
 date: '2011-01-25T12:00:00+00:00'
-tags:
+categories:
 - interesting
 - microsoft
 - phone

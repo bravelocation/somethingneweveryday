@@ -2,7 +2,7 @@
 layout: post
 title: Wrote a Chrome extension (128/365)
 date: '2011-05-08T08:32:00+01:00'
-tags:
+categories:
 - coding
 tumblr_url: http://www.somethingnew365.com/post/44286025575/wrote-a-chrome-extension-128365
 ---

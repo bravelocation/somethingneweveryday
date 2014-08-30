@@ -2,7 +2,7 @@
 layout: post
 title: Pub Quiz in Stoke Newington. Cancelled for Love (45/365)
 date: '2011-02-14T12:00:00+00:00'
-tags:
+categories:
 - london
 tumblr_url: http://www.somethingnew365.com/post/44289238672/pub-quiz-in-stoke-newington-cancelled-for-lov
 ---

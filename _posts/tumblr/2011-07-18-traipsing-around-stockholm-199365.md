@@ -2,7 +2,7 @@
 layout: post
 title: Traipsing around Stockholm (199/365)
 date: '2011-07-18T08:40:00+01:00'
-tags:
+categories:
 - JustMigrate
 - sweden
 - travel

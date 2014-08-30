@@ -2,7 +2,7 @@
 layout: post
 title: Tagging up the site (112/365)
 date: '2011-04-22T12:00:00+01:00'
-tags:
+categories:
 - blog
 tumblr_url: http://www.somethingnew365.com/post/44286042754/tagging-up-the-site-112365
 ---

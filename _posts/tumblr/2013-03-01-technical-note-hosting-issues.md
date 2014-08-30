@@ -2,7 +2,7 @@
 layout: post
 title: Technical note - Hosting issues
 date: '2013-03-01T16:27:12+00:00'
-tags: []
+categories: []
 tumblr_url: http://www.somethingnew365.com/post/44298902347/technical-note-hosting-issues
 ---
 Unfortunately, I had to move this site off Posterous when it closed down, and moving to Tumblr means the page URLs are all different.

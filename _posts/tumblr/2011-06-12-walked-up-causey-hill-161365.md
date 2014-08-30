@@ -2,7 +2,7 @@
 layout: post
 title: Walked up Causey Hill (163/365)
 date: '2011-06-12T20:03:00+01:00'
-tags:
+categories:
 - hexham
 tumblr_url: http://www.somethingnew365.com/post/44286001069/walked-up-causey-hill-161365
 ---

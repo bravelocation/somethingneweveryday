@@ -2,7 +2,7 @@
 layout: post
 title: Lunch at Boatside Inn in Warden (122/365)
 date: '2011-05-02T22:10:00+01:00'
-tags:
+categories:
 - eating
 tumblr_url: http://www.somethingnew365.com/post/44286032906/lunch-at-boatside-inn-in-warden-122365
 ---

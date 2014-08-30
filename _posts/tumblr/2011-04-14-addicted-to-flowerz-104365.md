@@ -2,7 +2,7 @@
 layout: post
 title: Addicted to Flowerz (104/365)
 date: '2011-04-14T12:00:00+01:00'
-tags:
+categories:
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44289143857/addicted-to-flowerz-104365
 ---

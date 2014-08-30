@@ -2,7 +2,7 @@
 layout: post
 title: reeses peanut butter chocolate cake cheesecak
 date: '2011-07-11T04:38:00+01:00'
-tags:
+categories:
 - eating
 - Seattle
 tumblr_url: http://www.somethingnew365.com/post/44061605621/reeses-peanut-butter-chocolate-cake-cheesecak

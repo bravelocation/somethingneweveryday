@@ -2,7 +2,7 @@
 layout: post
 title: Hacked together a near realtime RSS->Twitter solution (50/365)
 date: '2011-02-19T12:00:00+00:00'
-tags:
+categories:
 - coding
 tumblr_url: http://www.somethingnew365.com/post/44289181959/hacked-together-a-near-realtime-rss-twitter-s
 ---

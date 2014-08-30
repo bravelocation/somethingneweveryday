@@ -2,7 +2,7 @@
 layout: post
 title: Helped Motorcycle Crash Victim Outside Our House (77/365)
 date: '2011-03-18T12:00:00+00:00'
-tags:
+categories:
 - interesting
 tumblr_url: http://www.somethingnew365.com/post/44289165200/helped-motorcycle-crash-victim-outside-our-ho
 ---

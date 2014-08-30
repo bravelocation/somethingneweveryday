@@ -2,7 +2,7 @@
 layout: post
 title: Browns in Cardinal Place (215/365)
 date: '2011-08-03T08:43:00+01:00'
-tags:
+categories:
 - drinks
 - london
 tumblr_url: http://www.somethingnew365.com/post/44061580872/browns-in-cardinal-place-215365

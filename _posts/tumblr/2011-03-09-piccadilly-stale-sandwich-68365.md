@@ -2,7 +2,7 @@
 layout: post
 title: Piccadilly Stale Sandwich (68/365)
 date: '2011-03-09T12:00:00+00:00'
-tags:
+categories:
 - eating
 - london
 - travel

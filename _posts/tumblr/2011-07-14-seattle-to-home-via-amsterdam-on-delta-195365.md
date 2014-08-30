@@ -2,7 +2,7 @@
 layout: post
 title: Seattle to home via Amsterdam on Delta (195/365)
 date: '2011-07-14T08:13:00+01:00'
-tags:
+categories:
 - Seattle
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44061602507/seattle-to-home-via-amsterdam-on-delta-195365

@@ -2,7 +2,7 @@
 layout: post
 title: Monday Cocktails (157/365)
 date: '2011-06-06T20:52:00+01:00'
-tags:
+categories:
 - drinks
 - london
 tumblr_url: http://www.somethingnew365.com/post/44286007350/monday-cocktails-157365

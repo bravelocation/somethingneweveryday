@@ -2,7 +2,7 @@
 layout: post
 title: Installed SkyGo client (218/365)
 date: '2011-08-06T07:37:00+01:00'
-tags:
+categories:
 - computing
 tumblr_url: http://www.somethingnew365.com/post/44061579771/installed-skygo-client-218365
 ---

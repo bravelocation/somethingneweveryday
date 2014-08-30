@@ -2,7 +2,7 @@
 layout: post
 title: Planned my Olympic ticket application (52/365)
 date: '2011-02-21T12:00:00+00:00'
-tags:
+categories:
 - london
 - olympics
 tumblr_url: http://www.somethingnew365.com/post/44289181385/planned-my-olympic-ticket-application-52365

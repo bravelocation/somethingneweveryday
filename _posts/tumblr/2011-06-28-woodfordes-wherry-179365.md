@@ -2,7 +2,7 @@
 layout: post
 title: Woodforde’s Wherry (179/365)
 date: '2011-06-28T18:24:00+01:00'
-tags:
+categories:
 - beer
 - london
 tumblr_url: http://www.somethingnew365.com/post/44061621840/woodfordes-wherry-179365

@@ -2,7 +2,7 @@
 layout: post
 title: Travel Woes == Bus Home (55/365)
 date: '2011-02-24T12:00:00+00:00'
-tags:
+categories:
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44289180509/travel-woes-bus-home-55365
 ---

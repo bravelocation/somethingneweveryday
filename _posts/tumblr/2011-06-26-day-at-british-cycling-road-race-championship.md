@@ -2,7 +2,7 @@
 layout: post
 title: Day at British Cycling Road Race Championships (177/365)
 date: '2011-06-26T19:01:00+01:00'
-tags:
+categories:
 - cycling
 - hexham
 - sport

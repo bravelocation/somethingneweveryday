@@ -2,7 +2,7 @@
 layout: post
 title: I was Higher Than An Eagle (33/365)
 date: '2011-02-02T12:00:00+00:00'
-tags:
+categories:
 - interesting
 tumblr_url: http://www.somethingnew365.com/post/44289242476/i-was-higher-than-an-eagle-33365
 ---

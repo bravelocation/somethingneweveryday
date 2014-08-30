@@ -2,7 +2,7 @@
 layout: post
 title: Night out in Reading (109/365)
 date: '2011-04-19T12:00:00+01:00'
-tags:
+categories:
 - beer
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44286043471/night-out-in-reading-109365

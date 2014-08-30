@@ -2,7 +2,7 @@
 layout: post
 title: Using application bar in phone app (120/365)
 date: '2011-04-30T20:40:00+01:00'
-tags:
+categories:
 - coding
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44286033371/using-application-bar-in-phone-app-120365

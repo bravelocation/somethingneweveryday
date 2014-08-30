@@ -2,7 +2,7 @@
 layout: post
 title: Found way home with least exercise (103/365)
 date: '2011-04-13T12:00:00+01:00'
-tags:
+categories:
 - london
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44289144187/found-way-home-with-least-exercise-103365

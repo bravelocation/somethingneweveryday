@@ -2,7 +2,7 @@
 layout: post
 title: Bought some audio books from iTunes (241/365)
 date: '2011-08-29T20:56:00+01:00'
-tags:
+categories:
 - computing
 tumblr_url: http://www.somethingnew365.com/post/43804530574/bought-some-audio-books-from-itunes-241365
 ---

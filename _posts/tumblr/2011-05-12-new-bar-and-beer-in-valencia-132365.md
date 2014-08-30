@@ -2,7 +2,7 @@
 layout: post
 title: New bar and beer in Valencia (132/365)
 date: '2011-05-12T14:50:00+01:00'
-tags:
+categories:
 - beer
 - Spain
 - travel

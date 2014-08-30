@@ -2,7 +2,7 @@
 layout: post
 title: Spanish Cup Final (134/365)
 date: '2011-05-14T08:40:00+01:00'
-tags:
+categories:
 - beer
 - football
 - Spain

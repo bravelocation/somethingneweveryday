@@ -2,7 +2,7 @@
 layout: post
 title: Installed Kindle for PC (14/365)
 date: '2011-01-14T10:24:00+00:00'
-tags:
+categories:
 - books
 - computing
 tumblr_url: http://www.somethingnew365.com/post/44289259578/installed-kindle-for-pc-14365

@@ -2,7 +2,7 @@
 layout: post
 title: Analysed what you all like (42/365)
 date: '2011-02-11T20:49:00+00:00'
-tags:
+categories:
 - blog
 tumblr_url: http://www.somethingnew365.com/post/44289239568/analysed-what-you-all-like-42365
 ---

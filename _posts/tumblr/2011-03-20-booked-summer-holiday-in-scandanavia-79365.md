@@ -2,7 +2,7 @@
 layout: post
 title: Booked summer holiday in Scandanavia (79/365)
 date: '2011-03-20T12:00:00+00:00'
-tags:
+categories:
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44289160441/booked-summer-holiday-in-scandanavia-79365
 ---

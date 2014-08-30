@@ -2,7 +2,7 @@
 layout: post
 title: Paid for Pro subscription to Remember The Milk (7/365)
 date: '2011-01-07T20:28:00+00:00'
-tags:
+categories:
 - computing
 tumblr_url: http://www.somethingnew365.com/post/44289261641/paid-for-pro-subscription-to-remember-the-mil
 ---

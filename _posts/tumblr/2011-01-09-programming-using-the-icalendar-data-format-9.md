@@ -2,7 +2,7 @@
 layout: post
 title: Programming using the iCalendar data format (9/365)
 date: '2011-01-09T16:35:00+00:00'
-tags:
+categories:
 - calendar
 - coding
 tumblr_url: http://www.somethingnew365.com/post/44289261050/programming-using-the-icalendar-data-format-9

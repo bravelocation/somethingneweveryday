@@ -2,7 +2,7 @@
 layout: post
 title: Bus home to avoid football crowds (110/365)
 date: '2011-04-20T12:00:00+01:00'
-tags:
+categories:
 - london
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44286043238/bus-home-to-avoid-football-crowds-110365

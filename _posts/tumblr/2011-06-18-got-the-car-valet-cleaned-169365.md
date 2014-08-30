@@ -2,7 +2,7 @@
 layout: post
 title: Got the car valet cleaned (169/365)
 date: '2011-06-18T16:25:00+01:00'
-tags:
+categories:
 - hexham
 tumblr_url: http://www.somethingnew365.com/post/44061630858/got-the-car-valet-cleaned-169365
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Fully Smartphone Family (115/365)
 date: '2011-04-25T12:00:00+01:00'
-tags:
+categories:
 - home
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44286042070/fully-smartphone-family-115365

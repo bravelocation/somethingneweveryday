@@ -2,7 +2,7 @@
 layout: post
 title: Home made mini-scones (155/365)
 date: '2011-06-04T08:24:00+01:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44286007778/home-made-mini-scones-155365
 ---

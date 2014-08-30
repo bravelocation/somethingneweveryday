@@ -2,7 +2,7 @@
 layout: post
 title: Aldi Fake Mars Bar (142/365)
 date: '2011-05-22T06:28:00+01:00'
-tags:
+categories:
 - eating
 tumblr_url: http://www.somethingnew365.com/post/44286022289/aldi-fake-mars-bar-142365
 ---

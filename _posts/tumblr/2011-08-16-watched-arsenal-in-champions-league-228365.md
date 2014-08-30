@@ -2,7 +2,7 @@
 layout: post
 title: Watched Arsenal in Champions League (228/365)
 date: '2011-08-16T21:32:00+01:00'
-tags:
+categories:
 - football
 - london
 tumblr_url: http://www.somethingnew365.com/post/43804553925/watched-arsenal-in-champions-league-228365

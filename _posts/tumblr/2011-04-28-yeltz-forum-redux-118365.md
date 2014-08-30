@@ -2,7 +2,7 @@
 layout: post
 title: Yeltz Forum Redux (118/365)
 date: '2011-04-28T17:26:00+01:00'
-tags:
+categories:
 - computing
 - football
 tumblr_url: http://www.somethingnew365.com/post/44286033982/yeltz-forum-redux-118365

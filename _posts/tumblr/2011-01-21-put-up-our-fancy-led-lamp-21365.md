@@ -2,7 +2,7 @@
 layout: post
 title: put up our fancy led lamp 21365
 date: '2011-01-21T12:00:00+00:00'
-tags:
+categories:
 - home
 tumblr_url: http://www.somethingnew365.com/post/44289257507/put-up-our-fancy-led-lamp-21365
 ---

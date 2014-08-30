@@ -2,7 +2,7 @@
 layout: post
 title: Online chat integration (161/365)
 date: '2011-06-10T08:57:00+01:00'
-tags:
+categories:
 - coding
 tumblr_url: http://www.somethingnew365.com/post/44286006313/online-chat-integration-161365
 ---

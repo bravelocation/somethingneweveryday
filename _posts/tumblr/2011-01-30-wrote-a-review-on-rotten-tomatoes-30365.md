@@ -2,7 +2,7 @@
 layout: post
 title: Wrote a review on Rotten Tomatoes (30/365)
 date: '2011-01-30T12:00:00+00:00'
-tags:
+categories:
 - cinema
 - computing
 tumblr_url: http://www.somethingnew365.com/post/44289246055/wrote-a-review-on-rotten-tomatoes-30365

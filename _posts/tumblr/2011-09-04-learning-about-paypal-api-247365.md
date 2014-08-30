@@ -2,7 +2,7 @@
 layout: post
 title: Learning about Paypal API (247/365)
 date: '2011-09-04T09:03:00+01:00'
-tags:
+categories:
 - computing
 tumblr_url: http://www.somethingnew365.com/post/43804522772/learning-about-paypal-api-247365
 ---

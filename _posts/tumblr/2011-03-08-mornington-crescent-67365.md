@@ -2,7 +2,7 @@
 layout: post
 title: Mornington Crescent (67/365)
 date: '2011-03-08T12:00:00+00:00'
-tags:
+categories:
 - london
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44289170023/mornington-crescent-67365

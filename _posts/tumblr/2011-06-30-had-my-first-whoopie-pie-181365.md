@@ -2,7 +2,7 @@
 layout: post
 title: Had my first whoopie pie (181/365)
 date: '2011-06-30T09:38:00+01:00'
-tags:
+categories:
 - eating
 - london
 tumblr_url: http://www.somethingnew365.com/post/44061621134/had-my-first-whoopie-pie-181365

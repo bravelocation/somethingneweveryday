@@ -2,7 +2,7 @@
 layout: post
 title: Version 2 of Bedside Clock almost complete (83/365)
 date: '2011-03-24T12:00:00+00:00'
-tags:
+categories:
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44289154908/version-2-of-bedside-clock-almost-complete-83
 ---

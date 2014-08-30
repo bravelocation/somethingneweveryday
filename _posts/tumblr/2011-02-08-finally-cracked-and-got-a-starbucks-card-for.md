@@ -2,7 +2,7 @@
 layout: post
 title: Finally cracked and got a Starbucks card for Wi-fi (39/365)
 date: '2011-02-08T12:00:00+00:00'
-tags:
+categories:
 - computing
 - london
 tumblr_url: http://www.somethingnew365.com/post/44289240516/finally-cracked-and-got-a-starbucks-card-for

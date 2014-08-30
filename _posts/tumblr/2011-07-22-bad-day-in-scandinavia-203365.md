@@ -2,7 +2,7 @@
 layout: post
 title: Bad Day in Scandinavia (203/365)
 date: '2011-07-22T09:03:00+01:00'
-tags:
+categories:
 - Denmark
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44061591665/bad-day-in-scandinavia-203365

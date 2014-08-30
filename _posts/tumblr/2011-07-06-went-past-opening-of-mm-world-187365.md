@@ -2,7 +2,7 @@
 layout: post
 title: Went past opening of M&M World (187/365)
 date: '2011-07-06T20:24:00+01:00'
-tags:
+categories:
 - interesting
 - london
 tumblr_url: http://www.somethingnew365.com/post/44061607415/went-past-opening-of-mm-world-187365

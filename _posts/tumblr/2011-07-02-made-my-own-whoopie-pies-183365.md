@@ -2,7 +2,7 @@
 layout: post
 title: made my own whoopie pies 183365
 date: '2011-07-02T10:00:00+01:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44061620276/made-my-own-whoopie-pies-183365
 ---

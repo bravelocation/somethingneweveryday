@@ -2,7 +2,7 @@
 layout: post
 title: Ryo Japanese Restaurant (166/365)
 date: '2011-06-15T09:40:00+01:00'
-tags:
+categories:
 - eating
 - london
 tumblr_url: http://www.somethingnew365.com/post/44285994777/ryo-japanese-restaurant-166365

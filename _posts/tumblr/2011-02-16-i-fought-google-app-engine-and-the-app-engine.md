@@ -2,7 +2,7 @@
 layout: post
 title: i fought google app engine and the app engine
 date: '2011-02-16T12:00:00+00:00'
-tags:
+categories:
 - computing
 tumblr_url: http://www.somethingnew365.com/post/44289185849/i-fought-google-app-engine-and-the-app-engine
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Went to my new local to watch the England game (40/365)
 date: '2011-02-09T22:22:00+00:00'
-tags:
+categories:
 - beer
 - london
 tumblr_url: http://www.somethingnew365.com/post/44289240209/went-to-my-new-local-to-watch-the-england-gam

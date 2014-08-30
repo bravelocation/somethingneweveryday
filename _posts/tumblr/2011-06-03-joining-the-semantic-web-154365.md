@@ -2,7 +2,7 @@
 layout: post
 title: Joining the semantic web (154/365)
 date: '2011-06-03T18:43:00+01:00'
-tags:
+categories:
 - coding
 tumblr_url: http://www.somethingnew365.com/post/44286008031/joining-the-semantic-web-154365
 ---

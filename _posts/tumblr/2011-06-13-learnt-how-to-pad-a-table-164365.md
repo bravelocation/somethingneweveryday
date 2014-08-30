@@ -2,7 +2,7 @@
 layout: post
 title: Learnt how to pad a table (164/365)
 date: '2011-06-13T20:58:00+01:00'
-tags:
+categories:
 - coding
 tumblr_url: http://www.somethingnew365.com/post/44286000829/learnt-how-to-pad-a-table-164365
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Trying "No food on plane" anti jet-lag diet (35/365)
 date: '2011-02-04T12:00:00+00:00'
-tags:
+categories:
 - eating
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44289241856/trying-no-food-on-plan-anti-jet-lag-diet-3536

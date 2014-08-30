@@ -2,7 +2,7 @@
 layout: post
 title: Catching the Heathrow Express (4/365)
 date: '2011-01-04T20:05:00+00:00'
-tags:
+categories:
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44289265939/catching-the-heathrow-express-4365
 ---

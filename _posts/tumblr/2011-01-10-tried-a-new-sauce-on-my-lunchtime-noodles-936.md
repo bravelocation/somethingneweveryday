@@ -2,7 +2,7 @@
 layout: post
 title: Tried a new sauce on my lunchtime noodles (10/365)
 date: '2011-01-10T20:21:00+00:00'
-tags:
+categories:
 - eating
 tumblr_url: http://www.somethingnew365.com/post/44289260770/tried-a-new-sauce-on-my-lunchtime-noodles-936
 ---

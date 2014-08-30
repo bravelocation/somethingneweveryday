@@ -2,7 +2,7 @@
 layout: post
 title: Stamford Hill. Sainsburys. Sad but streak continues (46/365)
 date: '2011-02-15T12:00:00+00:00'
-tags:
+categories:
 - london
 tumblr_url: http://www.somethingnew365.com/post/44289238350/stamford-hill-sainsburys-sad-but-streak-conti
 ---

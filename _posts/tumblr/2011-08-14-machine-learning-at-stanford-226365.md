@@ -2,7 +2,7 @@
 layout: post
 title: Machine Learning at Stanford (226/365)
 date: '2011-08-14T20:34:00+01:00'
-tags:
+categories:
 - learning
 tumblr_url: http://www.somethingnew365.com/post/44061574138/machine-learning-at-stanford-226365
 ---

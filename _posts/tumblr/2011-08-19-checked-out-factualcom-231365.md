@@ -2,7 +2,7 @@
 layout: post
 title: Checked out Factual.com (231/365)
 date: '2011-08-19T07:07:00+01:00'
-tags:
+categories:
 - computing
 tumblr_url: http://www.somethingnew365.com/post/43804552031/checked-out-factualcom-231365
 ---

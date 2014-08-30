@@ -2,7 +2,7 @@
 layout: post
 title: Built power-friendly app (178/365)
 date: '2011-06-27T05:37:00+01:00'
-tags:
+categories:
 - coding
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44061622233/built-power-friendly-app-178365

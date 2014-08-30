@@ -2,7 +2,7 @@
 layout: post
 title: Saw Ian McCaskill at Heathrow (36/365)
 date: '2011-02-05T15:24:00+00:00'
-tags:
+categories:
 - celebrity
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44289241565/saw-ian-mccaskill-at-heathrow

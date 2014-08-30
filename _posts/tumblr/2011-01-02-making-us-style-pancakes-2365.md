@@ -2,7 +2,7 @@
 layout: post
 title: making us style pancakes 2365
 date: '2011-01-02T12:04:00+00:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44289270507/making-us-style-pancakes-2365
 ---

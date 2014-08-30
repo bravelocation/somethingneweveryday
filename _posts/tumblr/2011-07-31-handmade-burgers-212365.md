@@ -2,7 +2,7 @@
 layout: post
 title: Handmade Burgers (212/365)
 date: '2011-07-31T20:31:00+01:00'
-tags:
+categories:
 - eating
 - Newcastle
 tumblr_url: http://www.somethingnew365.com/post/44061581977/handmade-burgers-212365

@@ -2,7 +2,7 @@
 layout: post
 title: Valenciano food from M&S (136/365)
 date: '2011-05-16T20:51:00+01:00'
-tags:
+categories:
 - eating
 - london
 tumblr_url: http://www.somethingnew365.com/post/44286023714/valenciano-food-from-ms-136365

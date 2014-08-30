@@ -2,7 +2,7 @@
 layout: post
 title: Saw a fencing exhibition (191/365)
 date: '2011-07-10T04:25:00+01:00'
-tags:
+categories:
 - interesting
 - Seattle
 - sport

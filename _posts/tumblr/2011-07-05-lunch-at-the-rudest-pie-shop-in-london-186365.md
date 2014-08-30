@@ -2,7 +2,7 @@
 layout: post
 title: Lunch at the rudest pie shop in London (186/365)
 date: '2011-07-05T06:20:00+01:00'
-tags:
+categories:
 - eating
 - london
 tumblr_url: http://www.somethingnew365.com/post/44061611361/lunch-at-the-rudest-pie-shop-in-london-186365

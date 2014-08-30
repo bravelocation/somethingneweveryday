@@ -2,7 +2,7 @@
 layout: post
 title: Working in Victoria (185/365)
 date: '2011-07-04T06:04:00+01:00'
-tags:
+categories:
 - london
 tumblr_url: http://www.somethingnew365.com/post/44061611768/working-in-victoria-185365
 ---

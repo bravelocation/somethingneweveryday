@@ -2,7 +2,7 @@
 layout: post
 title: boat trip around stockholm archipelago 201365
 date: '2011-07-20T16:36:00+01:00'
-tags:
+categories:
 - sweden
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44061595743/boat-trip-around-stockholm-archipelago-201365

@@ -2,7 +2,7 @@
 layout: post
 title: i am the muffin man 57365
 date: '2011-02-26T12:00:00+00:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44289179948/i-am-the-muffin-man-57365
 ---

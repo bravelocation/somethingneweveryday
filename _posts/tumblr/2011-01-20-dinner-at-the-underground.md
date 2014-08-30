@@ -2,7 +2,7 @@
 layout: post
 title: Dinner at the Underground (20/365)
 date: '2011-01-20T12:00:00+00:00'
-tags:
+categories:
 - eating
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44289257799/dinner-at-the-underground

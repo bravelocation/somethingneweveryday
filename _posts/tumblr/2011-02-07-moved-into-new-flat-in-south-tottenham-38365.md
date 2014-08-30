@@ -2,7 +2,7 @@
 layout: post
 title: Moved into new flat in South Tottenham (38/365)
 date: '2011-02-07T12:00:00+00:00'
-tags:
+categories:
 - london
 tumblr_url: http://www.somethingnew365.com/post/44289240857/moved-into-new-flat-in-south-tottenham-38365
 ---

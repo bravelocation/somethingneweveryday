@@ -2,7 +2,7 @@
 layout: post
 title: made toad in the hole 219365
 date: '2011-08-07T20:31:00+01:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44061579394/made-toad-in-the-hole-219365
 ---

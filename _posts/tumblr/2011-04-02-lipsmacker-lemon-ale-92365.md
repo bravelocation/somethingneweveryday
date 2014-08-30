@@ -2,7 +2,7 @@
 layout: post
 title: Lipsmacker Lemon Ale (92/365)
 date: '2011-04-02T12:00:00+01:00'
-tags:
+categories:
 - beer
 tumblr_url: http://www.somethingnew365.com/post/44289147495/lipsmacker-lemon-ale-92365
 ---

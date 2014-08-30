@@ -2,7 +2,7 @@
 layout: post
 title: I am not a designer (64/365)
 date: '2011-03-05T12:00:00+00:00'
-tags:
+categories:
 - coding
 tumblr_url: http://www.somethingnew365.com/post/44289173203/i-am-not-a-designer-64365
 ---

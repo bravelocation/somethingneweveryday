@@ -2,7 +2,7 @@
 layout: post
 title: Wimbledon Barbecue (184/365)
 date: '2011-07-03T09:14:00+01:00'
-tags:
+categories:
 - cooking
 - hexham
 - sport

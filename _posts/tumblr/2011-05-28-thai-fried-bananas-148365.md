@@ -2,7 +2,7 @@
 layout: post
 title: Thai Fried Bananas (148/365)
 date: '2011-05-28T08:52:00+01:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44286009437/thai-fried-bananas-148365
 ---

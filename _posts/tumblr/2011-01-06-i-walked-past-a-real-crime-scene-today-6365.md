@@ -2,7 +2,7 @@
 layout: post
 title: I walked past a real crime scene today (6/365)
 date: '2011-01-06T18:21:00+00:00'
-tags:
+categories:
 - interesting
 tumblr_url: http://www.somethingnew365.com/post/44289265363/i-walked-past-a-real-crime-scene-today-6365
 ---

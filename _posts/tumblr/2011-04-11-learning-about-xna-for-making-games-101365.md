@@ -2,7 +2,7 @@
 layout: post
 title: Learning about XNA for making games (101/365)
 date: '2011-04-11T12:00:00+01:00'
-tags:
+categories:
 - coding
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44289144851/learning-about-xna-for-making-games-101365

@@ -2,7 +2,7 @@
 layout: post
 title: Kindle Direct Publishing (233/365)
 date: '2011-08-21T20:25:00+01:00'
-tags:
+categories:
 - books
 - computing
 tumblr_url: http://www.somethingnew365.com/post/43804550758/kindle-direct-publishing-233365

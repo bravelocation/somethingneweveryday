@@ -2,7 +2,7 @@
 layout: post
 title: Boozing in Belgravia (236/365)
 date: '2011-08-24T11:33:00+01:00'
-tags:
+categories:
 - beer
 - london
 tumblr_url: http://www.somethingnew365.com/post/43804548846/boozing-in-belgravia-236365

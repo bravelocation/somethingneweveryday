@@ -2,7 +2,7 @@
 layout: post
 title: Moved out of Pimlico (19/365)
 date: '2011-01-19T12:00:00+00:00'
-tags:
+categories:
 - london
 tumblr_url: http://www.somethingnew365.com/post/44289258123/moved-out-of-pimlico-19365
 ---

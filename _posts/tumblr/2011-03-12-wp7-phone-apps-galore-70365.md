@@ -2,7 +2,7 @@
 layout: post
 title: WP7 Phone Apps Galore (70/365)
 date: '2011-03-12T12:00:00+00:00'
-tags:
+categories:
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44289169111/wp7-phone-apps-galore-70365
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Used docs.com to easily share a document with friends (23/365)
 date: '2011-01-23T12:00:00+00:00'
-tags:
+categories:
 - computing
 tumblr_url: http://www.somethingnew365.com/post/44289252148/used-docscom-to-easily-share-a-document-with
 ---

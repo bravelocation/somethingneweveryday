@@ -2,7 +2,7 @@
 layout: post
 title: Switched Sides in the Sausage Sandwich Game (22/365)
 date: '2011-01-22T12:00:00+00:00'
-tags:
+categories:
 - eating
 tumblr_url: http://www.somethingnew365.com/post/44289252415/switched-sides-in-the-sausage-sandwich-game-2
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Bought a DAB radio. And it works. (54/365)
 date: '2011-02-23T12:00:00+00:00'
-tags:
+categories:
 - shopping
 tumblr_url: http://www.somethingnew365.com/post/44289180781/bought-a-dab-radio-and-it-works-54365
 ---

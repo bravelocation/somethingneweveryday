@@ -2,7 +2,7 @@
 layout: post
 title: Made my first contactless payment (123/365)
 date: '2011-05-03T06:20:00+01:00'
-tags:
+categories:
 - interesting
 tumblr_url: http://www.somethingnew365.com/post/44286032637/made-my-first-contactless-payment-123365
 ---

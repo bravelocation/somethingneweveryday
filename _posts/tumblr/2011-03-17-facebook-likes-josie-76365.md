@@ -2,7 +2,7 @@
 layout: post
 title: Facebook Likes Josie (76/365)
 date: '2011-03-17T12:00:00+00:00'
-tags:
+categories:
 - coding
 - facebook
 tumblr_url: http://www.somethingnew365.com/post/44289165488/facebook-likes-josie-76365

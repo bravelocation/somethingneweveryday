@@ -2,7 +2,7 @@
 layout: post
 title: Voted Yes to Change (114/365)
 date: '2011-04-24T12:00:00+01:00'
-tags:
+categories:
 - politics
 tumblr_url: http://www.somethingnew365.com/post/44286042296/voted-yes-to-change-114365
 ---

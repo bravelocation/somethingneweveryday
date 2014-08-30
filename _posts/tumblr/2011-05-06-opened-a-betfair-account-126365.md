@@ -2,7 +2,7 @@
 layout: post
 title: Opened a BetFair account (126/365)
 date: '2011-05-06T16:57:00+01:00'
-tags:
+categories:
 - betting
 tumblr_url: http://www.somethingnew365.com/post/44286031901/opened-a-betfair-account-126365
 ---

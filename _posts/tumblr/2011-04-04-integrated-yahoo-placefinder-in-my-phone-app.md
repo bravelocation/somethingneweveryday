@@ -2,7 +2,7 @@
 layout: post
 title: Integrated Yahoo! PlaceFinder in my phone app (94/365)
 date: '2011-04-04T12:00:00+01:00'
-tags:
+categories:
 - coding
 - location
 - phone

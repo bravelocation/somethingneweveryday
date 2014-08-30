@@ -2,7 +2,7 @@
 layout: post
 title: Light side of the moon (108/365)
 date: '2011-04-18T12:00:00+01:00'
-tags:
+categories:
 - coding
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44286043738/light-side-of-the-moon-108365

@@ -2,7 +2,7 @@
 layout: post
 title: Learning more about geospatial queries (3/365)
 date: '2011-01-03T15:15:00+00:00'
-tags:
+categories:
 - coding
 - location
 tumblr_url: http://www.somethingnew365.com/post/44289266273/learning-more-about-geospatial-queries-3365

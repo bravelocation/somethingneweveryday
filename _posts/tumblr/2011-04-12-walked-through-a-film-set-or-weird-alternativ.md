@@ -2,7 +2,7 @@
 layout: post
 title: Walked through a film set - or weird alternative reality (102/365)
 date: '2011-04-12T12:00:00+01:00'
-tags:
+categories:
 - interesting
 - london
 tumblr_url: http://www.somethingnew365.com/post/44289144527/walked-through-a-film-set-or-weird-alternativ

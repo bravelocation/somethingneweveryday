@@ -2,7 +2,7 @@
 layout: post
 title: 'Celebrity Spot: Nick Moran (87/365)'
 date: '2011-03-28T12:00:00+01:00'
-tags:
+categories:
 - celebrity
 tumblr_url: http://www.somethingnew365.com/post/44289149099/celebrity-spot-nick-moran-87365
 ---

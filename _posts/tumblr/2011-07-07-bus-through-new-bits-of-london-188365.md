@@ -2,7 +2,7 @@
 layout: post
 title: Bus through new bits of London (188/365)
 date: '2011-07-07T00:07:00+01:00'
-tags:
+categories:
 - london
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44061607041/bus-through-new-bits-of-london-188365

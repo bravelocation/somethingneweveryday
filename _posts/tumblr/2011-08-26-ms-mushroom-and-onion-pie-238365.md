@@ -2,7 +2,7 @@
 layout: post
 title: M&S Mushroom and Onion Pie (238/365)
 date: '2011-08-26T20:34:00+01:00'
-tags:
+categories:
 - eating
 tumblr_url: http://www.somethingnew365.com/post/43804547469/ms-mushroom-and-onion-pie-238365
 ---

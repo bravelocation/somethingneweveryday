@@ -2,7 +2,7 @@
 layout: post
 title: Wasted 3 hours of my life on SimpleGeo (90/365)
 date: '2011-03-31T12:00:00+01:00'
-tags:
+categories:
 - coding
 - location
 - phone

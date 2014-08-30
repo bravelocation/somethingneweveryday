@@ -2,7 +2,7 @@
 layout: post
 title: Home via CPH Airport (206/365)
 date: '2011-07-25T07:57:00+01:00'
-tags:
+categories:
 - Denmark
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44061586832/home-via-cph-airport-206365

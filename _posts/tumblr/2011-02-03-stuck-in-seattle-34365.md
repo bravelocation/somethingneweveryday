@@ -2,7 +2,7 @@
 layout: post
 title: Stuck in Seattle (34/365)
 date: '2011-02-03T12:00:00+00:00'
-tags:
+categories:
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44289242163/stuck-in-seattle-34365
 ---

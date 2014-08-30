@@ -2,7 +2,7 @@
 layout: post
 title: A teriyaki tofu bento box lunch (53/365)
 date: '2011-02-22T12:00:00+00:00'
-tags:
+categories:
 - eating
 - london
 tumblr_url: http://www.somethingnew365.com/post/44289181081/a-teriyaki-tofu-bento-box-lunch-53365

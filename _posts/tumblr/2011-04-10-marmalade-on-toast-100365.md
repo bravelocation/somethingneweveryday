@@ -2,7 +2,7 @@
 layout: post
 title: Marmalade on toast (100/365)
 date: '2011-04-10T12:00:00+01:00'
-tags:
+categories:
 - eating
 tumblr_url: http://www.somethingnew365.com/post/44289145199/marmalade-on-toast-100365
 ---

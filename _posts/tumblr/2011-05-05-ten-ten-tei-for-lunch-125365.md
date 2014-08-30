@@ -2,7 +2,7 @@
 layout: post
 title: Ten Ten Tei for lunch (125/365)
 date: '2011-05-05T08:09:00+01:00'
-tags:
+categories:
 - eating
 - london
 tumblr_url: http://www.somethingnew365.com/post/44286032136/ten-ten-tei-for-lunch-125365

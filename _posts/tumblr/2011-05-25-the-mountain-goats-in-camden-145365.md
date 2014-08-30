@@ -2,7 +2,7 @@
 layout: post
 title: The Mountain Goats in Camden (145/365)
 date: '2011-05-25T18:55:00+01:00'
-tags:
+categories:
 - london
 - music
 tumblr_url: http://www.somethingnew365.com/post/44286016511/the-mountain-goats-in-camden-145365

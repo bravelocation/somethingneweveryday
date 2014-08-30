@@ -2,7 +2,7 @@
 layout: post
 title: Wrote a book review on Amazon (5/365)
 date: '2011-01-05T20:17:00+00:00'
-tags:
+categories:
 - books
 - computing
 tumblr_url: http://www.somethingnew365.com/post/44289265631/wrote-a-book-review-on-amazon-5365

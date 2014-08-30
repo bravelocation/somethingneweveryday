@@ -2,7 +2,7 @@
 layout: post
 title: Homemade Jam Tarts (323/365)
 date: '2011-11-19T07:39:00+00:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/43670215256/homemade-jam-tarts-323365
 ---

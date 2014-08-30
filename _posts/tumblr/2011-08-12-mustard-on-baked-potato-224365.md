@@ -2,7 +2,7 @@
 layout: post
 title: Mustard on Baked Potato (224/365)
 date: '2011-08-12T07:28:00+01:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44061574902/mustard-on-baked-potato-224365
 ---

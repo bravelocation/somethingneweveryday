@@ -2,7 +2,7 @@
 layout: post
 title: Upgraded phone to Mango (182/365)
 date: '2011-07-01T08:30:00+01:00'
-tags:
+categories:
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44061620767/upgraded-phone-to-mango-182365
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Made a flat Swiss Roll (15/365)
 date: '2011-01-15T09:17:00+00:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44289259294/made-a-flat-swiss-roll-15365
 ---

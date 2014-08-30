@@ -2,7 +2,7 @@
 layout: post
 title: 'Something New Every Day: The Rules'
 date: '2011-01-01T11:59:00+00:00'
-tags:
+categories:
 - blog
 tumblr_url: http://www.somethingnew365.com/post/44289270830/something-new-every-day-the-rules
 ---

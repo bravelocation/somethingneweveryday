@@ -2,7 +2,7 @@
 layout: post
 title: Churros and Hot Chocolate (141/365)
 date: '2011-05-21T20:12:00+01:00'
-tags:
+categories:
 - cooking
 - Spain
 tumblr_url: http://www.somethingnew365.com/post/44286022511/churros-and-hot-chocolate-141365

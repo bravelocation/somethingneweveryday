@@ -2,7 +2,7 @@
 layout: post
 title: home made jammy dodgers 78365
 date: '2011-03-19T12:00:00+00:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44289164875/home-made-jammy-dodgers-78365
 ---

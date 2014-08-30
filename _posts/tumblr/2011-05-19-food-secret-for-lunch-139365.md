@@ -2,7 +2,7 @@
 layout: post
 title: Food Secret for lunch (139/365)
 date: '2011-05-19T13:31:00+01:00'
-tags:
+categories:
 - eating
 - london
 tumblr_url: http://www.somethingnew365.com/post/44286022956/food-secret-for-lunch-139365

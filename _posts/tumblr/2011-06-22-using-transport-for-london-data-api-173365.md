@@ -2,7 +2,7 @@
 layout: post
 title: Using Transport for London data API (173/365)
 date: '2011-06-22T16:02:00+01:00'
-tags:
+categories:
 - coding
 - london
 tumblr_url: http://www.somethingnew365.com/post/44061629370/using-transport-for-london-data-api-173365

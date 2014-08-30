@@ -2,7 +2,7 @@
 layout: post
 title: Checked out Evernote integration possibilities (189/365)
 date: '2011-07-08T04:11:00+01:00'
-tags:
+categories:
 - coding
 tumblr_url: http://www.somethingnew365.com/post/44061606699/checked-out-evernote-integration-possibilitie
 ---

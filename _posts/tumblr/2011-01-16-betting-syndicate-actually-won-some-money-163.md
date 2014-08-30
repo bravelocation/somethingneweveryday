@@ -2,7 +2,7 @@
 layout: post
 title: Betting syndicate actually won some money (16/365)
 date: '2011-01-16T07:29:00+00:00'
-tags: []
+categories: []
 tumblr_url: http://www.somethingnew365.com/post/44289259027/betting-syndicate-actually-won-some-money-163
 ---
 Getting a bit lax updating the blog, which probably reflects how it’s actually quite hard to do something new - and vaguely worth writing about each day.

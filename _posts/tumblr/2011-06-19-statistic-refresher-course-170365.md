@@ -2,7 +2,7 @@
 layout: post
 title: Statistic refresher course (170/365)
 date: '2011-06-19T20:24:00+01:00'
-tags:
+categories:
 - learning
 tumblr_url: http://www.somethingnew365.com/post/44061630484/statistic-refresher-course-170365
 ---

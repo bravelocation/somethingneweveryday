@@ -2,7 +2,7 @@
 layout: post
 title: saw seahawks star signing in bing cafeteria 3
 date: '2011-02-01T12:00:00+00:00'
-tags:
+categories:
 - celebrity
 - microsoft
 tumblr_url: http://www.somethingnew365.com/post/44289245390/saw-seahawks-star-signing-in-bing-cafeteria-3

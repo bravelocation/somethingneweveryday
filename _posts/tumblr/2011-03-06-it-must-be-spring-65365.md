@@ -2,7 +2,7 @@
 layout: post
 title: It must be Spring... (65/365)
 date: '2011-03-06T12:00:00+00:00'
-tags:
+categories:
 - baseball
 tumblr_url: http://www.somethingnew365.com/post/44289172887/it-must-be-spring-65365
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Checked out App Harbour for low cost web hosting (66/365)
 date: '2011-03-07T12:00:00+00:00'
-tags:
+categories:
 - computing
 tumblr_url: http://www.somethingnew365.com/post/44289172584/checked-out-app-harbour-for-low-cost-web-host
 ---

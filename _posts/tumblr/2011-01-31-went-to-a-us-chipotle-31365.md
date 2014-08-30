@@ -2,7 +2,7 @@
 layout: post
 title: Went to a US Chipotle (31/365)
 date: '2011-01-31T12:00:00+00:00'
-tags:
+categories:
 - eating
 tumblr_url: http://www.somethingnew365.com/post/44289245727/went-to-a-us-chipotle-31365
 ---

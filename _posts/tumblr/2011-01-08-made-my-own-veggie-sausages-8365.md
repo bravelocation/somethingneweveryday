@@ -2,7 +2,7 @@
 layout: post
 title: Made my own veggie sausages (8/365)
 date: '2011-01-08T19:44:00+00:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44289261337/made-my-own-veggie-sausages-8365
 ---

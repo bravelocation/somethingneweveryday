@@ -2,7 +2,7 @@
 layout: post
 title: Paparazzi at lunchtime (111/365)
 date: '2011-04-21T12:00:00+01:00'
-tags:
+categories:
 - celebrity
 - london
 tumblr_url: http://www.somethingnew365.com/post/44286042974/paparazzi-at-lunchtime-111365

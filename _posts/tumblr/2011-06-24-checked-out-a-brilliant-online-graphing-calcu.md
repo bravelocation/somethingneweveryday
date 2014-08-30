@@ -2,7 +2,7 @@
 layout: post
 title: Checked out a brilliant online graphing calculator (175/365)
 date: '2011-06-24T16:21:00+01:00'
-tags:
+categories:
 - beautiful
 - interesting
 - website

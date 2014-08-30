@@ -2,7 +2,7 @@
 layout: post
 title: a day full of meetings 28365
 date: '2011-01-28T12:00:00+00:00'
-tags:
+categories:
 - microsoft
 tumblr_url: http://www.somethingnew365.com/post/44289247994/a-day-full-of-meetings-28365
 ---

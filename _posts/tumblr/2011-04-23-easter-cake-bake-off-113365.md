@@ -2,7 +2,7 @@
 layout: post
 title: Easter cake bake-off (113/365)
 date: '2011-04-23T12:00:00+01:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44286042536/easter-cake-bake-off-113365
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Black Bottle Postern (194/365)
 date: '2011-07-13T20:15:00+01:00'
-tags:
+categories:
 - beer
 - eating
 - Seattle

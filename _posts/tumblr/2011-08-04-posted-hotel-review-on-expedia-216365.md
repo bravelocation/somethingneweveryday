@@ -2,7 +2,7 @@
 layout: post
 title: Posted Hotel Review on Expedia (216/365)
 date: '2011-08-04T15:12:00+01:00'
-tags:
+categories:
 - Denmark
 - website
 tumblr_url: http://www.somethingnew365.com/post/44061580508/posted-hotel-review-on-expedia-216365

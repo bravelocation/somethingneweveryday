@@ -2,7 +2,7 @@
 layout: post
 title: Drinks in The Glassblower (159/365)
 date: '2011-06-08T07:04:00+01:00'
-tags:
+categories:
 - beer
 - london
 tumblr_url: http://www.somethingnew365.com/post/44286006773/drinks-in-the-glassblower-159365

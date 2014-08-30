@@ -2,7 +2,7 @@
 layout: post
 title: Setup a CodeGuard backup (146/365)
 date: '2011-05-26T18:24:00+01:00'
-tags:
+categories:
 - coding
 tumblr_url: http://www.somethingnew365.com/post/44286016266/setup-a-codeguard-backup-146365
 ---

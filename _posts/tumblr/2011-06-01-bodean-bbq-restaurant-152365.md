@@ -2,7 +2,7 @@
 layout: post
 title: Bodean BBQ Restaurant (152/365)
 date: '2011-06-01T19:08:00+01:00'
-tags:
+categories:
 - eating
 - london
 tumblr_url: http://www.somethingnew365.com/post/44286008484/bodean-bbq-restaurant-152365

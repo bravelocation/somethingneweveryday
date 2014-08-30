@@ -2,7 +2,7 @@
 layout: post
 title: cooked some disappointing rostis 240365
 date: '2011-08-28T16:08:00+01:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/43804539248/cooked-some-disappointing-rostis-240365
 ---

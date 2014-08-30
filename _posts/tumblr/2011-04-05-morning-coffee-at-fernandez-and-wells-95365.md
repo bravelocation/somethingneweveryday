@@ -2,7 +2,7 @@
 layout: post
 title: Morning coffee at Fernandez and Wells (95/365)
 date: '2011-04-05T12:00:00+01:00'
-tags:
+categories:
 - eating
 - london
 tumblr_url: http://www.somethingnew365.com/post/44289146662/morning-coffee-at-fernandez-and-wells-95365

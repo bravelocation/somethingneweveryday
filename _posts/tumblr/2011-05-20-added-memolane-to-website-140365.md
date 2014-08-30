@@ -2,7 +2,7 @@
 layout: post
 title: Added Memolane to website (140/365)
 date: '2011-05-20T08:45:00+01:00'
-tags:
+categories:
 - computing
 tumblr_url: http://www.somethingnew365.com/post/44286022733/added-memolane-to-website-140365
 ---

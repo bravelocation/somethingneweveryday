@@ -2,7 +2,7 @@
 layout: post
 title: Fried Egg on Veggie Burger on Baked Potato (135/365)
 date: '2011-05-15T20:52:00+01:00'
-tags:
+categories:
 - eating
 - Spain
 tumblr_url: http://www.somethingnew365.com/post/44286023958/fried-egg-on-veggie-burger-on-baked-potato-13

@@ -2,7 +2,7 @@
 layout: post
 title: Dinner at Cafe Nerd (160/365)
 date: '2011-06-09T19:08:00+01:00'
-tags:
+categories:
 - eating
 - london
 tumblr_url: http://www.somethingnew365.com/post/44286006531/dinner-at-cafe-nerd-160365

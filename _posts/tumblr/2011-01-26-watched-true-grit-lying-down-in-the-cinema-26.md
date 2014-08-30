@@ -2,7 +2,7 @@
 layout: post
 title: Watched True Grit lying down in the cinema (26/365)
 date: '2011-01-26T12:00:00+00:00'
-tags:
+categories:
 - cinema
 - interesting
 tumblr_url: http://www.somethingnew365.com/post/44289251219/watched-true-grit-lying-down-in-the-cinema-26

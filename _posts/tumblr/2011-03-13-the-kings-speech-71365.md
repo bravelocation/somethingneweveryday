@@ -2,7 +2,7 @@
 layout: post
 title: The King's Speech (71/365)
 date: '2011-03-13T17:40:00+00:00'
-tags:
+categories:
 - cinema
 tumblr_url: http://www.somethingnew365.com/post/44289168465/the-kings-speech-71365
 ---

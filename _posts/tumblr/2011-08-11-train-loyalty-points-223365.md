@@ -2,7 +2,7 @@
 layout: post
 title: Train Loyalty Points (223/365)
 date: '2011-08-11T08:34:00+01:00'
-tags:
+categories:
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44061575280/train-loyalty-points-223365
 ---

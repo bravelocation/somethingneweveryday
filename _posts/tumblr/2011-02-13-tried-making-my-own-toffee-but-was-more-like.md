@@ -2,7 +2,7 @@
 layout: post
 title: Tried making my own toffee, but was more like caramel (44/365)
 date: '2011-02-13T12:00:00+00:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44289238992/tried-making-my-own-toffee-but-was-more-like
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Picnic in Russell Square (243/365)
 date: '2011-08-31T08:24:00+01:00'
-tags:
+categories:
 - london
 tumblr_url: http://www.somethingnew365.com/post/43804529380/picnic-in-russell-square-243365
 ---

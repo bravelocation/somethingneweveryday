@@ -2,7 +2,7 @@
 layout: post
 title: Got my own app running on my Windows Phone (17/365)
 date: '2011-01-17T21:20:00+00:00'
-tags:
+categories:
 - coding
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44289258747/got-my-own-app-running-on-my-windows-phone-17

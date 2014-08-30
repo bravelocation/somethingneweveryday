@@ -2,7 +2,7 @@
 layout: post
 title: home made vegetarian sushi 117365
 date: '2011-04-27T12:00:00+01:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44286041527/home-made-vegetarian-sushi-117365
 ---

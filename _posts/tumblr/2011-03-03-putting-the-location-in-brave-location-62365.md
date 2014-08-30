@@ -2,7 +2,7 @@
 layout: post
 title: Putting the location in Brave Location (62/365)
 date: '2011-03-03T12:00:00+00:00'
-tags:
+categories:
 - coding
 - location
 tumblr_url: http://www.somethingnew365.com/post/44289173809/putting-the-location-in-brave-location-62365

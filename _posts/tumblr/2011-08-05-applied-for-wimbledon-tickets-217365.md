@@ -2,7 +2,7 @@
 layout: post
 title: Applied for Wimbledon tickets (217/365)
 date: '2011-08-05T09:58:00+01:00'
-tags:
+categories:
 - london
 - sport
 tumblr_url: http://www.somethingnew365.com/post/44061580148/applied-for-wimbledon-tickets-217365

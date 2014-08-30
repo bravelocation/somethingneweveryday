@@ -2,7 +2,7 @@
 layout: post
 title: Behind the times (63/365)
 date: '2011-03-04T12:00:00+00:00'
-tags:
+categories:
 - computing
 - music
 tumblr_url: http://www.somethingnew365.com/post/44289173508/behind-the-times-63365

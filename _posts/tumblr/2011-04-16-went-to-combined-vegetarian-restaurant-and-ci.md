@@ -2,7 +2,7 @@
 layout: post
 title: Went to Combined Vegetarian Restaurant and Cinema (106/365)
 date: '2011-04-16T12:00:00+01:00'
-tags:
+categories:
 - cinema
 - eating
 - holiday

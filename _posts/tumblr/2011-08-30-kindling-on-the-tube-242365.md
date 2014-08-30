@@ -2,7 +2,7 @@
 layout: post
 title: Kindling on the Tube (242/365)
 date: '2011-08-30T20:09:00+01:00'
-tags:
+categories:
 - books
 - london
 tumblr_url: http://www.somethingnew365.com/post/43804529939/kindling-on-the-tube-242365

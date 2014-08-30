@@ -2,7 +2,7 @@
 layout: post
 title: Bedside Clock v2 uploaded to Marketplace (116/365)
 date: '2011-04-26T12:00:00+01:00'
-tags:
+categories:
 - phone
 tumblr_url: http://www.somethingnew365.com/post/44286041824/bedside-clock-v2-uploaded-to-marketplace-1163
 ---

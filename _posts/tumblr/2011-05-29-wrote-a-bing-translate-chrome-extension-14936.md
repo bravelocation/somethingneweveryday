@@ -2,7 +2,7 @@
 layout: post
 title: Wrote a Bing Translate Chrome Extension (149/365)
 date: '2011-05-29T16:23:00+01:00'
-tags:
+categories:
 - coding
 - language
 tumblr_url: http://www.somethingnew365.com/post/44286009215/wrote-a-bing-translate-chrome-extension-14936

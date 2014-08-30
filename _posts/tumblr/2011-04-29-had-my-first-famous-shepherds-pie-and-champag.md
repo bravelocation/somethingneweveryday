@@ -2,7 +2,7 @@
 layout: post
 title: Had my first famous Shepherds Pie and Champagne party (119/365)
 date: '2011-04-29T12:00:00+01:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44286033648/had-my-first-famous-shepherds-pie-and-champag
 ---

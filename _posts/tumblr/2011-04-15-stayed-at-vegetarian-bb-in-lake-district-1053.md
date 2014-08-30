@@ -2,7 +2,7 @@
 layout: post
 title: Stayed at Vegetarian B&B in Lake District (105/365)
 date: '2011-04-15T12:00:00+01:00'
-tags:
+categories:
 - holiday
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44289143549/stayed-at-vegetarian-bb-in-lake-district-1053

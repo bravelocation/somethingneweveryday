@@ -2,7 +2,7 @@
 layout: post
 title: Gouda Stroopwafels (196/365)
 date: '2011-07-15T14:31:00+01:00'
-tags:
+categories:
 - eating
 - travel
 tumblr_url: http://www.somethingnew365.com/post/44061602066/gouda-stroopwafels-196365

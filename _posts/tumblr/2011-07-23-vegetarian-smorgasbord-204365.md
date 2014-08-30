@@ -2,7 +2,7 @@
 layout: post
 title: Vegetarian Smörgåsbord (204/365)
 date: '2011-07-23T08:37:00+01:00'
-tags:
+categories:
 - Denmark
 - eating
 tumblr_url: http://www.somethingnew365.com/post/44061591250/vegetarian-smorgasbord-204365

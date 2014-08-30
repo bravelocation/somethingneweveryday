@@ -2,7 +2,7 @@
 layout: post
 title: My Trendy Soho Haircut (130/365)
 date: '2011-05-10T06:11:00+01:00'
-tags:
+categories:
 - london
 tumblr_url: http://www.somethingnew365.com/post/44286025104/my-trendy-soho-haircut-130365
 ---

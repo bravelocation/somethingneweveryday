@@ -2,7 +2,7 @@
 layout: post
 title: Home-made Teriyaki Tofu Steaks (127/365)
 date: '2011-05-07T12:44:00+01:00'
-tags:
+categories:
 - cooking
 tumblr_url: http://www.somethingnew365.com/post/44286025816/home-made-teriyaki-tofu-steaks-127365
 ---

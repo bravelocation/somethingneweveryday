@@ -2,7 +2,7 @@
 layout: post
 title: Removed an insidious computer virus (59/365)
 date: '2011-02-28T21:48:00+00:00'
-tags:
+categories:
 - computing
 tumblr_url: http://www.somethingnew365.com/post/44289174809/removed-an-insidious-computer-virus-59365
 ---

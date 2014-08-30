@@ -2,7 +2,7 @@
 layout: post
 title: Sheep Heid Skittles (209/365)
 date: '2011-07-28T18:37:00+01:00'
-tags:
+categories:
 - beer
 - Edinburgh
 tumblr_url: http://www.somethingnew365.com/post/44061583083/sheep-heid-skittles-209365

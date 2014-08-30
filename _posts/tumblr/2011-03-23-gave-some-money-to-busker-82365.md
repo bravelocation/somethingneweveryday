@@ -2,7 +2,7 @@
 layout: post
 title: Gave some money to busker (82/365)
 date: '2011-03-23T12:00:00+00:00'
-tags:
+categories:
 - london
 tumblr_url: http://www.somethingnew365.com/post/44289155206/gave-some-money-to-busker-82365
 ---

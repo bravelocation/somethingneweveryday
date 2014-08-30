@@ -2,7 +2,7 @@
 layout: post
 title: A set of unnotable but new things (58/365)
 date: '2011-02-27T20:42:00+00:00'
-tags:
+categories:
 - coding
 - eating
 - home

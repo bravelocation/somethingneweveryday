@@ -2,7 +2,7 @@
 layout: post
 title: Bought a Netbook (29/365)
 date: '2011-01-29T12:00:00+00:00'
-tags:
+categories:
 - computing
 - microsoft
 tumblr_url: http://www.somethingnew365.com/post/44289246386/bought-a-netbook-29365
