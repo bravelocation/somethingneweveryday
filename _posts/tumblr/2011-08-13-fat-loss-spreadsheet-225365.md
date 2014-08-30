@@ -6,10 +6,15 @@ categories:
 - diet
 tumblr_url: http://www.somethingnew365.com/post/44061574551/fat-loss-spreadsheet-225365
 ---
-I’ve been reading the brilliant (and slightly mad) book 4 Hour Body by Tim Ferriss. The main thread throughout the book is that public data tracking is the most important part of any personal experimentation, whatever diet you use to try to lose weight.
+I’ve been reading the brilliant (and slightly mad) book [4 Hour Body](http://www.amazon.co.uk/The-4-Hour-Body-ebook/dp/B004M8S3Y6/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1313348984&sr=1-1) by Tim Ferriss. The main thread throughout the book is that public data tracking is the most important part of any personal experimentation, whatever diet you use to try to lose weight.
+
 Anyway, I’ve decided to try to do 2 things:
-Lose 1 stone (14lbs) of body fat in 14 weeks
-Raise my body water content to 60% over that period
+
+* Lose 1 stone (14lbs) of body fat in 14 weeks
+* Raise my body water content to 60% over that period
+
 Not going to be easy, but to help track this - and more importantly make this a public challenge - I’ve made a new spreadsheet which will track my progress.
-You can see the initial data in a Google Docs spreadsheet I’ve setup online.
+
+You can see the initial data in a Google Docs [spreadsheet](https://spreadsheets.google.com/spreadsheet/ccc?key=0ApeEYUovh8d9dENRaXNmZTlPbUJsbzBXZWdBc1FZT3c&hl=en_US) I’ve setup online.
+
 I’m not sure how many of the slightly strange tactics suggested in the book to help me achieve my goals, but I’m assuming I’ll be blogging about them along the way.

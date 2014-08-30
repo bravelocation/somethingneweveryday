@@ -7,6 +7,8 @@ categories:
 - website
 tumblr_url: http://www.somethingnew365.com/post/44061580508/posted-hotel-review-on-expedia-216365
 ---
-I thought it would be good to use Expedia - where I’d booked the hotel - to give a review of the Hotel Kong Arthur where we’d stayed in Copenhagen a couple of weeks ago.
+I thought it would be good to use Expedia - where I’d booked the hotel - to give a review of the [Hotel Kong Arthur](http://www.expedia.co.uk/Copenhagen-Hotels-Hotel-Kong-Arthur.h519310.Hotel-Information?chkin=10%2F08%2F2011&chkout=11%2F08%2F2011&rm1=a1&#reviews) where we’d stayed in Copenhagen a couple of weeks ago.
+
 The hotel wasn’t that bad, but it wasn’t quite as good as you’d expect from the hotel details and reviews. I may have been more critical because it rained almost non-stop while we were there, but there were a few things that weren’t quite right. Ho hum.
+
 As of Saturday afternoon the review hasn’t gone live yet, but they said it would take 5-7 days for it to appear which seems rather cautious.
