@@ -1,4 +1,4 @@
-safe:     true
+safe:     false
 port:     4000
 url:      http://localhost:4000
 paginate: 10
@@ -35,4 +35,3 @@ kramdown:
     coderay_tab_width:         4
     coderay_bold_every:        10
     coderay_css:               style
-
