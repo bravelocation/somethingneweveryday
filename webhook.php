@@ -1,7 +1,7 @@
 <?php
 // Set Variables
 $LOCAL_ROOT         = "/home/mylifeas/public_html/";
-$LOCAL_REPO_NAME    = "yeltzland-static";
+$LOCAL_REPO_NAME    = "somethingnew365";
 $LOCAL_REPO         = "{$LOCAL_ROOT}/{$LOCAL_REPO_NAME}";
 $BRANCH             = "master";
 if ($_SERVER['HTTP_X_EVENT_KEY'] == 'repo:push') {
