@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<title>Playing in F# (61/365) - BraveLocation Blog</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Brave Location Blog - Web, Mobile and Big Data stuff"/>
+<link rel="icon" href="/favicon.ico" />
+<link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700" rel="stylesheet" type="text/css" />
+<link type="text/css" rel="stylesheet" href="/css/bootstrap.min.css">
+
+
+
+<link type="text/css" rel="stylesheet" href="/css/bootstrap-responsive.min.css">
+<link type="text/css" rel="stylesheet" href="/css/site.css" />
+<link href="/rss.xml" rel="alternate" title="Something New Every Day" type="application/atom+xml" />
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/bootstrap-collapse.js"></script>
+
+<link rel="shortcut icon" href="/images/favicon.png" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="http://www.bravelocation.com/images/BraveLocationSquare.png"/>
+<meta property="og:site_name" content="Brave Location Blog - Web, Mobile and Big Data stuff"/>
+<meta property="fb:app_id" content="125302614190821"/>
+<meta property="og:description" content="Been a very busy week, with the Bing launch in France, so I’ve had to grab my opportunities for new things when I can. On Wednesday, I followed the advice of @phammond to try out some new programming languages when I’m stuck for ideas, and had a play with F#. F#"/>
+
+<link rel="canonical" href="http://somethingnew365.bravelocationstudios.com/coding/2011/03/02/playing-in-f-61365.html"  />
+<meta property="og:title" content="Playing in F# (61/365)" />
+<meta property="og:url" content="http://somethingnew365.com/coding/2011/03/02/playing-in-f-61365.html/" />
+</head>
+<body>
+<div class="navbar"> <!-- Topbar -->
+  <div class="navbar-inner">
+    <div class="container">
+        <a class="brand" href="/">Something New Every Day</a>
+        <ul class="nav">
+			    <li style="list-style-type: none"><a href="/categories.html">Posts by Category</a></li>
+		    </ul>
+        <ul class="nav pull-right">
+			    <li style="list-style-type: none"><a href="/rss.xml"><img src="/images/feed-icon-28x28.png" width="28" height="28" alt="Feed" /></a></li>
+		    </ul>
+    </div>
+  </div>
+  <div id="bannerHeader"></div>
+</div> <!-- End of Topbar -->
+
+
+<div class="container"> <!-- Main container -->
+
+<!-- blog header -->
+<div class="hero-unit">
+    <h1>Something New Every Day</h1>
+    <p>A record of doing a new thing every day in 2011</p>
+</div>
+<!-- end blog header -->
+
+<!-- Begin Body Columns -->
+<div class="row">
+    <div class="span12"> <!-- Main content column -->
+        <h2 class="blogPostHeader"><a href="/coding/2011/03/02/playing-in-f-61365.html" title="Permalink" class="headingHighlight">Playing in F# (61/365)</a> <span class="muted">Wednesday March  2, 2011</span></h2>
+        <p>Been a very busy week, with the Bing launch in France, so I’ve had to grab my opportunities for new things when I can.</p>
+
+<p>On Wednesday, I followed the advice of @phammond to try out some new programming languages when I’m stuck for ideas, and had a play with F#.
+F# is a functional programming language, which makes it very interesting to play about with as it forces you to think about problems in a slightly different way. After installing the software and figuring out how to get the console running, I managed to write some “Hello World” code:</p>
+
+<p><code class="highlighter-rouge">
+module BraveLocation.FSharpDemo
+open System
+let output = “Hello World!”
+System.Console.WriteLine output
+</code></p>
+
+<p>The line that took a little time was when loading the above code from a file in the F# console, you need your code to be part of a module.</p>
+
+<p>Pressing on, next step was to write a very simple function that takes 2 integers and adds them:</p>
+
+<p><code class="highlighter-rouge">
+let sum2 a b = a + b
+let testSum2Values = sum2 3 4
+System.Console.Write “3+4=”
+System.Console.WriteLine testSum2Values
+</code></p>
+
+<p>All pretty straightforward, but the rather sparse syntax takes a little time to get used to.</p>
+
+<p>Finally something a little more interesting, with a recursive function that adds all numbers in a list of integers:</p>
+
+<p><code class="highlighter-rouge">
+let rec sumList c = match c with
+                    | h::tail -&gt; (sumList tail) + h   // A list has a value (h) and a tail
+                    | [] -&gt; 0                         // If the list is empty, return 0 to end the recursion
+let testSumList = sumList [1;2;3;4;5]      // Define a list, and sum the values
+System.Console.Write “1+2+3+4+5=”
+System.Console.WriteLine testSumList
+</code></p>
+
+<p>A few newbie things of note here:</p>
+
+<ul>
+  <li>The “rec” in the function declaration denotes this function can be called recursively</li>
+  <li>The built-in list type is really a linked list, with a value, and a ::tail denoting the list part</li>
+  <li>The match clause is a sort of dynamic type matching switch statement</li>
+</ul>
+
+<p>It’s all very interesting, and compiling to .Net makes it possible to easily mix and match languages as appropriate. Will definitely investigate more if I ever get time</p>
+
+		<div class="withinpostdivider">&nbsp;</div>
+	</div>
+</div>
+
+<footer>
+<div class="row">
+	<div class="span3"><a href="/">&laquo; Back to Blog Home</a></div>
+
+	<!-- FB Like button -->
+	<div class="span3">
+	<div class="fb-like" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" href="http://somethingnew365.com/coding/2011/03/02/playing-in-f-61365.html/"></div>
+	</div>
+	<!-- End FB Like button -->
+
+	<!-- Twitter button -->
+	<div class="span3">
+	<a href="https://twitter.com/share" class="twitter-share-button" data-via="bravelocation">Tweet</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</div>
+    <!-- End Twitter button -->
+
+	<!-- Google +1 button  -->
+	<div class="span3">
+		<div class="g-plusone" data-size="medium" data-annotation="inline" data-width="150"></div>
+	</div>
+	<!-- End Google +1 button -->
+
+</div> <!-- End row -->
+</footer>
+
+
+<!-- Facebook initialisation -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=125302614190821";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- End Facebook initialisation -->
+
+<!--  Google+ initialisation -->
+<script type="text/javascript">
+  window.___gcfg = {lang: 'en-GB'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!-- End Google+ initialisation -->
+
+</body>
+</html>
+​

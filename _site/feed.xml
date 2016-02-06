@@ -5,9 +5,9 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 14 Dec 2015 20:14:27 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Dec 2015 20:14:27 +0000</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Sat, 06 Feb 2016 08:42:55 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Feb 2016 08:42:55 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
     
       <item>
         <title>Epilogue</title>
@@ -32,8 +32,8 @@
 &lt;p&gt;So that’s it. I hope you enjoyed reading about my adventure a little bit, and maybe it’s inspired you to try something new every now and then?&lt;/p&gt;
 </description>
         <pubDate>Wed, 04 Jan 2012 17:10:00 +0000</pubDate>
-        <link>http://localhost:4000/epilogue</link>
-        <guid isPermaLink="true">http://localhost:4000/epilogue</guid>
+        <link>http://localhost:4000/2012/01/04/epilogue.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2012/01/04/epilogue.html</guid>
         
         
       </item>
@@ -49,11 +49,11 @@
 &lt;p&gt;One more post to come when I’ll try to write a suitable conclusion to the year of new things - but it’ll have to wait a bit until I feel a bit less hungover.&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Dec 2011 10:39:00 +0000</pubDate>
-        <link>http://localhost:4000/new-year-in-spain-365365</link>
-        <guid isPermaLink="true">http://localhost:4000/new-year-in-spain-365365</guid>
+        <link>http://localhost:4000/spain/travel/2011/12/31/new-year-in-spain-365365.html</link>
+        <guid isPermaLink="true">http://localhost:4000/spain/travel/2011/12/31/new-year-in-spain-365365.html</guid>
         
         
-        <category>spain</category>
+        <category>Spain</category>
         
         <category>travel</category>
         
@@ -68,11 +68,11 @@
 &lt;p&gt;It wasn’t the only new thing yesterday, as we went to a new place for me (Momofuku?) which served tiny but quite tasty veggie burgers, but for the penultimate post I’m sticking with the sporting themed one.&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Dec 2011 09:48:00 +0000</pubDate>
-        <link>http://localhost:4000/walked-on-a-grand-prix-track-364365</link>
-        <guid isPermaLink="true">http://localhost:4000/walked-on-a-grand-prix-track-364365</guid>
+        <link>http://localhost:4000/spain/sport/travel/2011/12/30/walked-on-a-grand-prix-track-364365.html</link>
+        <guid isPermaLink="true">http://localhost:4000/spain/sport/travel/2011/12/30/walked-on-a-grand-prix-track-364365.html</guid>
         
         
-        <category>spain</category>
+        <category>Spain</category>
         
         <category>sport</category>
         
@@ -93,11 +93,11 @@
 &lt;p&gt;There was a beautiful sunset when we arrived in Valencia which I couldn’t do justice to on my camera phone so I won’t share here, and then we headed out for a nice evening of food and drink.&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Dec 2011 10:16:00 +0000</pubDate>
-        <link>http://localhost:4000/air-europa-363365</link>
-        <guid isPermaLink="true">http://localhost:4000/air-europa-363365</guid>
+        <link>http://localhost:4000/spain/travel/2011/12/29/air-europa-363365.html</link>
+        <guid isPermaLink="true">http://localhost:4000/spain/travel/2011/12/29/air-europa-363365.html</guid>
         
         
-        <category>spain</category>
+        <category>Spain</category>
         
         <category>travel</category>
         
@@ -114,8 +114,8 @@
 &lt;p&gt;I’ve already mentioned that 2012 will be my “Year of Code” when I’m going to try to ship something every month, and I’m not sure whether this will count as Miss January :-)&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Dec 2011 08:10:00 +0000</pubDate>
-        <link>http://localhost:4000/silverlight-in-style-362365</link>
-        <guid isPermaLink="true">http://localhost:4000/silverlight-in-style-362365</guid>
+        <link>http://localhost:4000/coding/phone/2011/12/28/silverlight-in-style-362365.html</link>
+        <guid isPermaLink="true">http://localhost:4000/coding/phone/2011/12/28/silverlight-in-style-362365.html</guid>
         
         
         <category>coding</category>
@@ -137,8 +137,8 @@
 &lt;p&gt;Just 4 days of the year left now, but I can assure you things will pick up for the last drips of 2011 :-)&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Dec 2011 09:01:00 +0000</pubDate>
-        <link>http://localhost:4000/gums-vs-pastilles-361365</link>
-        <guid isPermaLink="true">http://localhost:4000/gums-vs-pastilles-361365</guid>
+        <link>http://localhost:4000/eating/2011/12/27/gums-vs-pastilles-361365.html</link>
+        <guid isPermaLink="true">http://localhost:4000/eating/2011/12/27/gums-vs-pastilles-361365.html</guid>
         
         
         <category>eating</category>
@@ -154,8 +154,8 @@
 &lt;p&gt;I followed another Delia recipe, and the only slightly complicated bit was making the meringues (which turned out pretty well). The rest was just pureed strawberries, lashings of cream and sliced bananas all over a bed of smashed up meringue pieces. Simple and lovely.&lt;/p&gt;
 </description>
         <pubDate>Mon, 26 Dec 2011 08:44:00 +0000</pubDate>
-        <link>http://localhost:4000/eton-mess-360365</link>
-        <guid isPermaLink="true">http://localhost:4000/eton-mess-360365</guid>
+        <link>http://localhost:4000/cooking/2011/12/26/eton-mess-360365.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cooking/2011/12/26/eton-mess-360365.html</guid>
         
         
         <category>cooking</category>
@@ -169,8 +169,8 @@
 &lt;p&gt;Anyway I did have something new thanks to my sister Jenny who got me a fun present just so I could have something new (a most thoughtful gift!) - a dart board that shouts out when you hit different areas of the board. Good fun, and goes nicely in my office as a fun desktop distraction.&lt;/p&gt;
 </description>
         <pubDate>Sun, 25 Dec 2011 08:37:00 +0000</pubDate>
-        <link>http://localhost:4000/xmas-talking-dart-board-359365</link>
-        <guid isPermaLink="true">http://localhost:4000/xmas-talking-dart-board-359365</guid>
+        <link>http://localhost:4000/interesting/2011/12/25/xmas-talking-dart-board-359365.html</link>
+        <guid isPermaLink="true">http://localhost:4000/interesting/2011/12/25/xmas-talking-dart-board-359365.html</guid>
         
         
         <category>interesting</category>
@@ -192,8 +192,8 @@
 &lt;p&gt;&lt;a href=&quot;http://maps.google.com/?ll=54.964607,-2.036505&amp;amp;spn=0.019562,0.087891&amp;amp;hnear=London,+United+Kingdom&amp;amp;t=m&amp;amp;vpsrc=6&amp;amp;layer=c&amp;amp;cbll=54.967871,-2.03228&amp;amp;panoid=YZKpcTLrp1vSxd9eMssZow&amp;amp;cbp=12,54.58,,0,3.08&amp;amp;source=gplus-ogsb&amp;amp;source=embed&quot;&gt;View Larger Map&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 Dec 2011 10:39:00 +0000</pubDate>
-        <link>http://localhost:4000/corbridge-level-crossing-358365</link>
-        <guid isPermaLink="true">http://localhost:4000/corbridge-level-crossing-358365</guid>
+        <link>http://localhost:4000/hexham/2011/12/24/corbridge-level-crossing-358365.html</link>
+        <guid isPermaLink="true">http://localhost:4000/hexham/2011/12/24/corbridge-level-crossing-358365.html</guid>
         
         
         <category>hexham</category>
@@ -209,8 +209,8 @@
 &lt;p&gt;I’d have never have thought of making an omelette like this, and it was delicious. Very light, and with the 3 different types of cheese in it very tasty. Let’s be ‘aving you!&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Dec 2011 19:05:00 +0000</pubDate>
-        <link>http://localhost:4000/souffle-omelette-357365</link>
-        <guid isPermaLink="true">http://localhost:4000/souffle-omelette-357365</guid>
+        <link>http://localhost:4000/cooking/2011/12/23/souffle-omelette-357365.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cooking/2011/12/23/souffle-omelette-357365.html</guid>
         
         
         <category>cooking</category>
